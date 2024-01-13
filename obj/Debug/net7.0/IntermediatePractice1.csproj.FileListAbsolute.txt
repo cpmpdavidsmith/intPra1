@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/bin/Debug/net7.0/IntermediatePractice1
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/bin/Debug/net7.0/IntermediatePractice1.deps.json
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/bin/Debug/net7.0/IntermediatePractice1.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/bin/Debug/net7.0/IntermediatePractice1.dll
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/bin/Debug/net7.0/IntermediatePractice1.pdb
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.dll
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/refint/IntermediatePractice1.dll
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.pdb
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/IntermediatePractice1.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IntermediatePractice1/IntermediatePractice1/obj/Debug/net7.0/ref/IntermediatePractice1.dll

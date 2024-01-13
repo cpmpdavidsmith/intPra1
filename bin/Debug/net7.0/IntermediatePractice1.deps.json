@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IntermediatePractice1/1.0.0": {
+        "runtime": {
+          "IntermediatePractice1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntermediatePractice1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
